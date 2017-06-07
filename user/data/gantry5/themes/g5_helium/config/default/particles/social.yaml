@@ -1,0 +1,17 @@
+enabled: '1'
+css:
+  class: ''
+title: ''
+target: _blank
+display: icons_only
+items:
+  -
+    icon: 'fa fa-vk'
+    text: ''
+    link: vk.com
+    name: VK
+  -
+    icon: 'fa fa-at'
+    text: ''
+    link: ''
+    name: email
